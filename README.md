@@ -84,7 +84,7 @@ Built in Google Colab with scikit-learn, XGBoost, imbalanced-learn, and SHAP.
 
 ### Beeswarm — Per Class
 - **Class 0**
-  ![SHAP Class 0](shap1.png)
+  ![SHAP Class 0](SHap1.png)
 - **Class 1**
   ![SHAP Class 1](shap2.png)
 - **Class 2**
@@ -92,7 +92,7 @@ Built in Google Colab with scikit-learn, XGBoost, imbalanced-learn, and SHAP.
 - **Class 3**
   ![SHAP Class 3](shap4.png)
 - **Class 4**
-  ![SHAP Class 4](SHap5.png)
+  ![SHAP Class 4](shap5.png)
 
 ### Global SHAP Importance
 ![Global SHAP](globalshapimportance.png)
