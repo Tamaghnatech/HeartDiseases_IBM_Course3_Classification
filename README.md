@@ -84,15 +84,15 @@ Built in Google Colab with scikit-learn, XGBoost, imbalanced-learn, and SHAP.
 
 ### Beeswarm — Per Class
 - **Class 0**
-  ![SHAP Class 0](shap5.png)
+  ![SHAP Class 0](shap1.png)
 - **Class 1**
-  ![SHAP Class 1](shap4.png)
+  ![SHAP Class 1](shap2.png)
 - **Class 2**
   ![SHAP Class 2](shap3.png)
 - **Class 3**
-  ![SHAP Class 3](shap2.png)
+  ![SHAP Class 3](shap4.png)
 - **Class 4**
-  ![SHAP Class 4](SHap1.png)
+  ![SHAP Class 4](SHap5.png)
 
 ### Global SHAP Importance
 ![Global SHAP](globalshapimportance.png)
@@ -102,15 +102,15 @@ Built in Google Colab with scikit-learn, XGBoost, imbalanced-learn, and SHAP.
 
 ### Top Features per Class (mean |SHAP|)
 - **Class 0**
-  ![Imp 0](shapimp5.png)
+  ![Imp 0](shapimp1.png)
 - **Class 1**
-  ![Imp 1](shapimp4.png)
+  ![Imp 1](shapimp2.png)
 - **Class 2**
   ![Imp 2](shapimp3.png)
 - **Class 3**
-  ![Imp 3](shapimp2.png)
+  ![Imp 3](shapimp4.png)
 - **Class 4**
-  ![Imp 4](shapimp1.png)
+  ![Imp 4](shapimp5.png)
 
 ---
 
