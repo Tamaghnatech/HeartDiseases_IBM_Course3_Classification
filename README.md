@@ -1,4 +1,4 @@
-# 🫀 <img src="IBM%20Logo.png" alt="IBM Logo" width="40"/> IBM ML Course 3 — Heart Disease Classification (UCI)
+#  <img src="IBM%20Logo.png" alt="IBM Logo" width="40"/> IBM ML Course 3 — Heart Disease Classification (UCI)
 
 ![Certificate](certificate.png)
 ![Badge](supervised-machine-learning-classification.png)
