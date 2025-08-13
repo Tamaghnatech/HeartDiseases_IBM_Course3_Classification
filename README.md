@@ -1,9 +1,13 @@
 # 🫀 IBM ML Course 3 — Heart Disease Classification (UCI)
-![Certificate](certificate.png)
-![Badge](supervised-machine-learning-classification.png)
+
+<p align="center">
+  <img src="certificate.png" alt="Certificate" width="400"/>
+  <img src="supervised-machine-learning-classification.png" alt="Badge" width="200"/>
+</p>
 
 Multi-class classification of heart disease severity (`num` = 0–4) using the UCI Heart Disease dataset (Kaggle cleaned).  
 Built in Google Colab with scikit-learn, XGBoost, imbalanced-learn, and SHAP.
+
 
 ---
 
